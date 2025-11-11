@@ -7,4 +7,4 @@
 A Balatro mod made with JokerForge that adds a whole lot of things
 
 # HEAVILY WORK IN PROGRESS
-The current export is a little bit broken. Expect bugs and issues.
+Yeah
